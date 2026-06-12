@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedant
-- 👀 I’m interested in Aerospace Controls
-- 🌱 I’m currently in my 3rd year of Aerospace Engineering
+- 👀 I work on Astrodynamics
+- 🌱 I’m currently in my 5th year of Integrated Masters in Aerospace Engineering
 - 💞️ I’m happy to discuss interesting ideas
 - 📫 Email: vedantkini18@gmail.com
 
