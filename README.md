@@ -2,7 +2,7 @@
 - 👀 I work on Astrodynamics
 - 🌱 I’m currently in my 5th year of Integrated Masters in Aerospace Engineering
 - 💞️ I’m happy to discuss interesting ideas
-- 📫 Email: vedantkini18@gmail.com
+- 📫 Email: vedantkini18@gmail.com, vedantkini21@kgpian.iitkgp.ac.in
 
 <!---
 vedantkini21/vedantkini21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
